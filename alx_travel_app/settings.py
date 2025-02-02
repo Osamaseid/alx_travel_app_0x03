@@ -54,7 +54,6 @@ INSTALLED_APPS = [
     'drf_yasg',
     'corsheaders',
     'listings',
-    'alx_travel_app'
 ]
 
 MIDDLEWARE = [
